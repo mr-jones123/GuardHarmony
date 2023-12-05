@@ -1,5 +1,20 @@
 package FamilyMembers;
 
-public abstract class Parent {
+public class Parent {
     
+    public void feedFood(){
+
+    }
+    public void drinkMilk(){
+
+    }
+    public  void watchTelevision(){
+
+    }
+    public void playToys(){
+
+    }
+    public void useToys(){
+
+    }
 }
