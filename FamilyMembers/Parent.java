@@ -17,4 +17,7 @@ public class Parent {
     public void useToys(){
 
     }
+    public void usePhone(){
+        
+    }
 }

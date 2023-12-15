@@ -1,21 +1,17 @@
 package FatherandChild;
 
 public class harmony {
-     public void cry(){
+    public void cry(){
 
-     }
-     public void scream(){
+    }
+    public void mischief(){
 
-     }
-     public void mischief(){
+    }
+    public void scream(){
 
-     }
-     public void fallDamage(){
-        cry();
-        scream();
-     }
-     public void laughing(){
-      
-     }
-     
+    }
+    
+
 }
+     
+
